@@ -61,5 +61,5 @@ Phases of MLOps:
 </table>
 
 <h2> 3. Running Example </h2>
-<p> duration-prediction.ipynb notebook contains code snippet for NYC-taxi duration prediction model training  </p>
+<p> duration-prediction.ipynb notebook in the <a href="https://github.com/emoloic/MLOPS-Zoomcamp/blob/main/01_Intro/HomeWork/duration-prediction.ipynb">Homework</a> folder contains code snippet for NYC-taxi duration prediction model training  </p>
   
